@@ -1,11 +1,11 @@
 const BLOG = {
-  title: '左蓝',
-  author: '左蓝',
-  email: 'i@zuolan.me',
+  title: 'Gracia Dental Care',
+  author: 'Gracia Dental Care',
+  email: 'admin@graciadentalcare.com',
   link: 'https://zuolan.me',
-  newsletter: '左蓝的周刊',
-  description: '一个静悄悄的博客.',
-  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  newsletter: 'Gracia Dental Care ID',
+  description: 'Official Website of Gracia Dental Care',
+  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#F6F8FA', // use hex value, don't forget '#' e.g #fffefc
@@ -21,8 +21,8 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-zl.vercel.app', // The link to generate OG image, don't end with a slash
   defaultCover: '/secret_preview.png',
   socialLink: {
-    twitter: 'https://twitter.com/izuolan',
-    github: 'https://github.com/izuolan',
+    twitter: 'https://twitter.com/graciadentalcare',
+    github: 'https://github.com/graciadentalcareid',
     telegram: 'https://t.me/zuolan'
   },
   seo: {
@@ -32,7 +32,7 @@ const BLOG = {
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS! Edit .env file!
   notionSpacesId: process.env.NOTION_SPACES_ID, // DO NOT CHANGE THIS! Edit .env file!
   notionAccessToken: process.env.NOTION_ACCESS_TOKEN, // Useful if you prefer not to make your database public
-  notionDomain: 'izuolan.notion.site',
+  notionDomain: 'graciadentalcareid.vercel.app',
   telegramToken: process.env.TELEGRAM_TOKEN, // The token of your Telegram bot
   telegramChatId: '263895784', // The chat id of your Telegram bot
   telegramChannelUrl: 'https://channel.zuolan.me/', // The link of your Telegram channel
