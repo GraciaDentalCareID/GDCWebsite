@@ -35,7 +35,7 @@ const BLOG = {
   notionDomain: 'izuolan.notion.site',
   telegramToken: process.env.TELEGRAM_TOKEN, // The token of your Telegram bot
   telegramChatId: '263895784', // The chat id of your Telegram bot
-  telegramChannelUrl: 'https://channel.zuolan.me/', // The link of your Telegram channel
+  telegramChannelUrl: 'graciadentalcareid.notion.site', // The link of your Telegram channel
   telegramChannelName: 'zuolan_me', // The name of your Telegram channel
   craftConfigShareUrl: 'https://www.craft.do/s/KQTJd0iW2LjZPU', // The link to share your craft config
   analytics: {
